@@ -98,12 +98,24 @@ Every request is confirmed by phone in the patient's preferred language.
 **Is parking available?**
 Yes, free parking is available on site at 331 E La Habra Blvd.
 
+## Patient guides
+
+Long-form answers written for patients in La Habra and surrounding communities:
+
+- [Dental Insurance in La Habra: PPO Plans and Coverage](https://diamonds-dental-la-habra.vercel.app/blog/dentist-la-habra-ppo-insurance) — what in-network means, which plans are accepted, what PPO tiers typically cover, and how to get a free estimate.
+- [Saturday Dentist in La Habra](https://diamonds-dental-la-habra.vercel.app/blog/saturday-dentist-la-habra) — weekend dental appointments for shift workers, commuters, families and orthodontic patients.
+- [Dentista que Habla Español en La Habra](https://diamonds-dental-la-habra.vercel.app/blog/dentista-que-habla-espanol-la-habra) — guía en español para pacientes hispanohablantes, con vocabulario dental en español e inglés.
+- [Dental Emergencies: What to Do First](https://diamonds-dental-la-habra.vercel.app/blog/dental-emergency-la-habra) — what counts as a dental emergency, first steps for a knocked-out or broken tooth, and when to go to an emergency room instead.
+
+All guides are indexed at the knowledge base: https://diamonds-dental-la-habra.vercel.app/knowledge
+
 ## Pages
 
 - [Home](https://diamonds-dental-la-habra.vercel.app/): practice overview, why patients choose Diamond's Dental, insurance list
 - [Services](https://diamonds-dental-la-habra.vercel.app/services): detail on preventive, restorative, orthodontic, and cosmetic treatment
 - [Office & Location](https://diamonds-dental-la-habra.vercel.app/office): photos of the office, hours, map, directions, what to expect at a first visit
 - [Contact & Booking](https://diamonds-dental-la-habra.vercel.app/contact): appointment request form, phone, insurance details
+- [Patient Guides](https://diamonds-dental-la-habra.vercel.app/knowledge): knowledge base of dental guides for the La Habra area
 
 ## Usage
 
