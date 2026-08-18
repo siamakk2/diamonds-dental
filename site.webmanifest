@@ -1,0 +1,10 @@
+{
+  "name": "Diamond's Dental Inc.",
+  "short_name": "Diamond's Dental",
+  "description": "Bilingual dental care in La Habra, CA. General, restorative, cosmetic dentistry and orthodontics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E2238",
+  "theme_color": "#0E2238",
+  "icons": [{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
