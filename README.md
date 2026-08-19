@@ -20,5 +20,4 @@ Static site, no build step. Deployed on Vercel from `main`.
 
 ## Pending
 
-- Replace `OFFICE_EMAIL` in `app.js` with the real office address
 - Optional About section once a dentist bio is provided

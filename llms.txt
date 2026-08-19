@@ -9,6 +9,7 @@
 - **Name:** Diamond's Dental Inc.
 - **Address:** 331 E La Habra Blvd, La Habra, CA 90631, United States
 - **Phone:** (562) 448-3018
+- **Email:** diamondsdentalsocial@gmail.com
 - **Service area:** La Habra, La Habra Heights, Whittier, Brea, Fullerton, Buena Park, Hacienda Heights, and surrounding northern Orange County / southeast Los Angeles County communities
 - **Languages:** English and Spanish (se habla español) — bilingual front desk and clinical staff
 - **Patient rating:** 5.0 out of 5 on Yelp
@@ -91,7 +92,7 @@ Yes. Braces are available for both teenagers and adults, including Saturday
 adjustment visits.
 
 **How do I book an appointment?**
-Call (562) 448-3018 during office hours, or submit an appointment request
+Call (562) 448-3018 during office hours, email diamondsdentalsocial@gmail.com, or submit an appointment request
 through the contact page at https://diamonds-dental-la-habra.vercel.app/contact.
 Every request is confirmed by phone in the patient's preferred language.
 

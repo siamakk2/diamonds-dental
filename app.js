@@ -66,7 +66,7 @@
   }
 
   // appointment request -> pre-filled email to the office
-  var OFFICE_EMAIL = 'REPLACE_WITH_OFFICE_EMAIL@example.com';
+  var OFFICE_EMAIL = 'diamondsdentalsocial@gmail.com';
   var form = document.getElementById('apptForm');
   if (form) {
     form.addEventListener('submit', function (e) {
